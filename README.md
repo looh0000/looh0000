@@ -39,7 +39,7 @@ Construo soluções completas — do design à infraestrutura.
 
 ## 📌 **Projetos em Destaque**
 🔹 **Cãopanheirismo Solidário** – Plataforma de adoção e apoio a ONGs  
-🔹 **Senthora** – Plataforma emocional com NLP e mapas de humor  
+🔹 **Senthora** – Plataforma emocional em desenvolvimento  
 🔹 **FinanceFlow (Mobile)** – App híbrido com dashboard e metas  
 🔹 **FinanceFlow (Web + AWS)** – Sistema com PHP, MySQL e AWS  
 🔹 **Developing Connections (CPaaS)** – Front-end otimizado e responsivo
