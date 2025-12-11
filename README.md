@@ -52,4 +52,9 @@ Construo soluções completas — do design à infraestrutura.
 
 ---
 
+### 🌐 Portfólio
+👉 [Acesse aqui](https://looh0000.github.io)
+
+---
+
 <p align="center">✨ Obrigada por visitar meu perfil! ✨</p>
