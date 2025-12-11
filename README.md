@@ -48,7 +48,7 @@ Construo soluções completas — do design à infraestrutura.
 
 ## 📫 **Contato**
 - ✉️ Email: **lorrayne.ramosdasilva@gmail.com**  
-- 🔗 GitHub: [github.com/lorrayneramos](https://github.com/looh0000)
+- 🔗 GitHub: [github.com/looh0000](https://github.com/looh0000)
 
 ---
 
